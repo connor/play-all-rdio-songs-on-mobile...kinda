@@ -21,6 +21,10 @@ select a playlist on your Rdio mobile app, then just press 'shuffle'. It will th
 
   - This will prompt you to go to a URL, and verify the auth by typing in a short number in the terminal. Once that is done, it will continue with the process. Once finished, it will print out 'all done :)'.
 
+**To play all of the songs at once**, just select whichever playlist
+you'd like (only synced, or entire collection), select a song, then
+make sure it's set to shuffle. Then, enjoy!
+
 Let me know if you have any questions or comments in the issues!
 
 <3
